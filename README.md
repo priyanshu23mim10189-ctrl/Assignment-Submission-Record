@@ -22,13 +22,8 @@ A collection of **9 projects** spanning Machine Learning, Deep Learning, Compute
 |---|---|---|---|---|
 | 1 | [Adult Census Income Classification](./Adult%20Census%20Income%20Classification/) | ML — Classification | Logistic Regression, Decision Tree, Random Forest, KNN, SVM | — |
 | 2 | [Cancer Classification (Brain Tumor MRI)](./Cancer%20Classification/) | DL — Medical Imaging | CNN, TensorFlow, ImageDataGenerator, 4-class MRI | — |
-| 3 | [Car Price Prediction](./car%20price%20prediction/) | ML — Regression | Random Forest, Flask, Pickle | [🌍 Live on Render](https://car-price-prediction-app-00au.onrender.com) |
-| 4 | [CIFAR-10 Image Classification](./CIFAR%2010/) | DL — Computer Vision | CNN, Data Augmentation, BatchNorm | — |
-| 5 | [LFW Face Recognition](./LFW%20face%20recognition/) | DL — Face Recognition | CNN, LFW Dataset, 7-class face ID | — |
-| 6 | [Movie Recommendation System](./Movie-Recommendation-System/) | ML — NLP / Recommender | TF-IDF, Cosine Similarity, Flask | — |
-| 7 | [RAG Chatbot (Amazon 10-Q)](./Rag_Chatbot/) | NLP — RAG | FastAPI, FAISS, Gemini AI, Sentence-Transformers | — |
-| 8 | [CartPole (PPO)](./cartpole/) | RL — Control | Stable-Baselines3, PPO, Gymnasium | — |
-| 9 | [Lunar Lander (DQN)](./lunar%20lander/) | RL — Control | Stable-Baselines3, DQN, Box2D | — |
+| 3 | [CIFAR-10 Image Classification](./CIFAR%2010/) | DL — Computer Vision | CNN, Data Augmentation, BatchNorm | — |
+| 4 | [LFW Face Recognition](./LFW%20face%20recognition/) | DL — Face Recognition | CNN, LFW Dataset, 7-class face ID | — |
 
 ---
 
